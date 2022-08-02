@@ -150,6 +150,15 @@ address {
 
 .e-mail, .tel {
     color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+}
+
+.post-address {
+    text-decoration: none;
+}
+
+.post-address:visited {
+    color: #FFFFFF;
 }
 
 .e-mail:hover,
